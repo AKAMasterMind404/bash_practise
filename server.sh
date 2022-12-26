@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ -z "$1" ];
 then
     node index.js; # IF THE INPUT IS NULL
