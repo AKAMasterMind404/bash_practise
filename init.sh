@@ -1,5 +1,3 @@
-cd ..
-
 apt update && apt upgrade
 pkg install git
 pkg install tsu
@@ -8,5 +6,3 @@ cd termux-sudo
 apt install nodejs
 npm install
 npm install express --save
-
-cd termux
