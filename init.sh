@@ -10,6 +10,3 @@ npm install
 npm install express --save
 
 cd termux
-
-mv server.sh ../
-mv delete.sh ../
