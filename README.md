@@ -1,4 +1,4 @@
-# termux-setup-android
+# Termux Setup for Android
 
 <h1> A one stop repo that allows you to initialize Termux with important packages</h1>
 
